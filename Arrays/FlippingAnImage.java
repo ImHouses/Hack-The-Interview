@@ -1,7 +1,11 @@
 import java.util.Random;
 
+/**
+ * 832. Flipping an Image. 
+ * Problem from LeetCode https://leetcode.com/problems/flipping-an-image/
+ */
 class FlippingAnImage {
-    
+
     public static void main(String[] args) {
         int[][] input = generateInput();
         String inputString = String.format("INPUT:\n %s", Utils.array2DtoString(input));
