@@ -25,12 +25,6 @@ class FibonacciNumber {
         return fibAux(N, results);
     }
 
-    /**
-     * Auxiliar function to return the Fibonacci of the given number N.
-     * @param N
-     * @param results
-     * @return
-     */
     private static int fibAux(int N, int[] results) {
         if(N == 0) {
             return 0;
