@@ -5,14 +5,27 @@ import java.lang.StringBuilder;
  */
 class Utils {
 
+    /**
+     * Prints the given int array.
+     * @param array The array to print.
+     */
     static void printArray(int[] array) {
         System.out.print(arrayToString(array));
     }
     
+    /**
+     * Prints the given 2D int array.
+     * @param array The array to print.
+     */
     static void print2DArray(int[][] array) {
         System.out.print(array2DtoString(array));
     }
 
+    /**
+     * Returns a String representation of the given array.
+     * @param array The array to "convert" to String.
+     * @return A String representation of the given array.
+     */
     static String arrayToString(int[] array) {
         StringBuilder arrayString = new StringBuilder();
         arrayString.append("[");
@@ -23,6 +36,11 @@ class Utils {
         return arrayString.toString();
     }
 
+    /**
+     * Returns a String representation of the given 2D array.
+     * @param array The array to "convert" to String.
+     * @return A String representation of the given 2D array.
+     */
     static String array2DtoString(int[][] array) {
         StringBuilder arrayString = new StringBuilder();
         int i = 0;
