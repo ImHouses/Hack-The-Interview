@@ -1,6 +1,6 @@
 {
     "date": "",
-    "last_solved_problem": "",
+    "last_solved_problem": "https://leetcode.com/problems/fibonacci-number/",
     "progress": [
         {
             "month": 0,
@@ -10,7 +10,7 @@
         {
             "month": 1,
             "problems_solved_per_week": 0,
-            "problems_solved_per_day": 1
+            "problems_solved_per_day": 2
         }
     ]
 }
