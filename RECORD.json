@@ -11,6 +11,11 @@
             "month": 1,
             "problems_solved_per_week": 0,
             "problems_solved_per_day": 2
+        },
+        {
+            "month": 6,
+            "problems_solved_per_week": 1,
+            "problems_solved_per_day": 0.14
         }
     ]
 }
