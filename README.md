@@ -18,3 +18,8 @@ I will also write my own useful stuff for problem solving, data structures or go
 I will write a JSON for keeping track of my progress, the last problem solved and how many problems I solved per day, week, or month.
 The JSON is just for using it on my personal website. 🙂
 
+# TODO List
+
+- Arrays vector implementation on Java.
+- Update README.
+- Tool for keeping track of my progress.
