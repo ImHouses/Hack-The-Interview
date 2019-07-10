@@ -20,6 +20,7 @@ The JSON is just for using it on my personal website. 🙂
 
 # TODO List
 
-- Arrays vector implementation on Java.
+- Arrays vector implementation on Java. ✅
+- Linked List implementation on Java. ✅
 - Update README.
 - Tool for keeping track of my progress.
