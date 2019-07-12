@@ -1,6 +1,6 @@
 {
     "date": "",
-    "last_solved_problem": "https://www.interviewbit.com/problems/find-duplicate-in-array/",
+    "last_solved_problem": "https://www.interviewbit.com/problems/merge-overlapping-intervals/",
     "progress": [
         {
             "month": 0,
@@ -19,8 +19,8 @@
         },
         {
             "month": 7,
-            "problems_solved_per_week": 3,
-            "problems_solved_per_day": 0.42
+            "problems_solved_per_week": 4,
+            "problems_solved_per_day": 0.57
         }
     ]
 }
