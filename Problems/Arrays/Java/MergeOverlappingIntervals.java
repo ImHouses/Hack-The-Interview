@@ -73,6 +73,9 @@ class MergeOverlappingIntervals {
         return result;
     }
     
+    /**
+     * Auxiliar method for merging intervals.
+     */
     public static Interval mergeIntervals(Interval interval1, Interval interval2) {
         int start = interval1.start < interval2.start ? interval1.start : interval2.start;
         int end = interval1.end > interval2.end ? interval1.end : interval2.end;
